@@ -3,7 +3,7 @@
 /**
  * Get current user IP address
  *
- * @return string             HTML <script> tag
+ * @return string             IP address (e.g: 127.0.0.1)
  */
 if ( ! function_exists('_current_ip'))
 {
