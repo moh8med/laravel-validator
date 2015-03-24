@@ -1,7 +1,6 @@
 {
-    "name": "moh8med/laravel-validator-plus",
+    "name": "moh8med/laravel-validator",
     "description": "Extending Laravel validator.",
-    "version": "1.0.0",
     "keywords": ["laravel", "validator", "validation"],
     "license": "MIT",
     "authors": [
